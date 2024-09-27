@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "NTIC",
+    "name": "<color_dark_gray>No Thoughts in Circuits</color>",
+    "authors": [ "Alpha//" ],
+    "maintainers": [ "Sliperr34" ],
+    "description": "New bionics, robots, mechs, vehicles, big guns and faction!",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
